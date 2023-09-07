@@ -1,6 +1,8 @@
 # MockupsPhase2Group8
 Universidad: Universidad del Valle de Guatemala
+
 Curso: Desarrollo de aplicaciones móviles
+
 Catedrático: Francisco Anzueto
 
 
