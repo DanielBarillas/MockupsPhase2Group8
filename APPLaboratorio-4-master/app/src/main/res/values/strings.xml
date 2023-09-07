@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab #04 - Pokémon</string>
+    <string name="hint_pokemon">Ingrese el nombre del pokémon</string>
+    <string name="search">Buscar</string>
+</resources>
